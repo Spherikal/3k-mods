@@ -1,0 +1,36 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/set_hero_skins/chinese_hero_skin_male_zhang_yan.variantmeshdefinition" />
+	</SLOT>
+	<SLOT name="shoulder_pads" />
+	<SLOT name="collar_armour" />
+	<SLOT name="chest_armour" />
+	<SLOT name="belt" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/components/belt/fabric/belt_fabric_01.wsmodel" />
+	</SLOT>
+	<SLOT name="skirt_armour" />
+	<SLOT name="tunic_top" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/components/tunic/top/tunic_top_rolled_up_sleeve_01.wsmodel" >
+			<SLOT name="vambraces" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/components/vambraces/vambraces_leather/vambraces_leather_01.wsmodel" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/components/tunic/top/tunic_top_long_sleeve_01.wsmodel" />
+	</SLOT>
+	<SLOT name="vambraces" />
+	<SLOT name="tunic_bottom" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/components/tunic/bottom/tunic_bottom_straight_double_layer_no_border_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/components/tunic/bottom/tunic_bottom_straight_single_layer_no_border_01.wsmodel" />
+	</SLOT>
+	<SLOT name="leg_armour" />
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/components/trousers/fabric/trousers_fabric_01.wsmodel" />
+	</SLOT>
+	<SLOT name="shoe" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/components/greaves/leg_wrapping_fabric/leg_wrapping_fabric_02b.wsmodel" />
+	</SLOT>
+	<SLOT name="audio_data" >
+		<VARIANT_MESH>
+			<META_DATA>audio_armour_type:Cloth</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

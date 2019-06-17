@@ -1,0 +1,47 @@
+<VARIANT_MESH>
+	<SLOT name="crest" />
+	<SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/hero/xiahou_dun/xiahou_dun_head.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="beard" />
+	<SLOT name="shoulder_pads" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/character/human/male/chinese/hero/zhang_yan/zhang_yan_custom_body.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="collar_armour" />
+	<SLOT name="chest_armour" />
+	<SLOT name="belt" />
+	<SLOT name="skirt_armour" />
+	<SLOT name="tunic_top" />
+	<SLOT name="vambraces" />
+	<SLOT name="tunic_bottom" />
+	<SLOT name="leg_armour" />
+	<SLOT name="trousers" />
+	<SLOT name="shoe" />
+	<SLOT name="cape" />
+	<SLOT name="accessory" />
+	<SLOT name="weapon_1" attach_point="weapon_1" />
+	<SLOT name="weapon_2" attach_point="weapon_2" />
+	<SLOT name="weapon_3" attach_point="weapon_3" />
+	<SLOT name="weapon_4" attach_point="weapon_4" />
+	<SLOT name="weapon_5" attach_point="weapon_5" />
+	<SLOT name="weapon_6" attach_point="weapon_6" />
+	<SLOT name="set_body" />
+	<SLOT name="set_melee" />
+	<SLOT name="set_shield" />
+	<SLOT name="set_ranged" />
+	<SLOT name="stump_neck" />
+	<SLOT name="stump_left_arm" />
+	<SLOT name="stump_right_arm" />
+	<SLOT name="stump_left_arm_limb" />
+	<SLOT name="stump_right_arm_limb" />
+	<SLOT name="stump_left_leg" />
+	<SLOT name="stump_right_leg" />
+	<SLOT name="stump_left_leg_limb" />
+	<SLOT name="stump_right_leg_limb" />
+	<SLOT name="stump_waist" />
+	<SLOT name="stump_severed_head" />
+	<SLOT name="audio_data" >
+		<VARIANT_MESH>
+			<META_DATA>audio_entity_type:3K_Human_LH</META_DATA>			<META_DATA>audio_element:Element_Wood</META_DATA>			<META_DATA>audio_generic_hero_id:General_Male_Wood</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>
